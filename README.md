@@ -1,13 +1,3 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+This projects demonstrates the creation of a decentralized voting app using blokcchain principles.
+The backend of the app is written in Solidity and deployed on Ethereum mainnet using Hardat. The code of it can be found in the folder contracts in the file named votingcontract.sol.
+This is just a prototype of how decentralized voting can be executed using blockchain. More functions, restriction, etc. can be added to the file as per the requirements.
