@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\dharm\\Desktop\\votingsimple\\contracts\\Lock.sol": {
+      "lastModificationDate": 1744701607077,
+      "contentHash": "56ebb75aca802d4d9f1fbb48d5bc24a2",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.20"
+      ],
+      "artifacts": [
+        "SimpleVoting"
+      ]
+    }
+  }
+}

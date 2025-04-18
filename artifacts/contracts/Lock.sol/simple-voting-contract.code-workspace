@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../simple-voting-contract"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../simple-dapp-voting"
+		},
+		{
+			"path": "../../../../first-react-app"
+		}
+	],
+	"settings": {}
+}
